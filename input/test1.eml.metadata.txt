@@ -1,0 +1,13 @@
+X-Parsed-By: org.apache.tika.parser.DefaultParser
+creator: Timothy Collins, <conference@hr-publishing.org>
+meta:author: Timothy Collins, <conference@hr-publishing.org>
+meta:creation-date: 2016-12-30T12:41:52Z
+subject: The publication for your paper in Universal Journal of Materials Science, Vol5 No2 (ISSN: 2331-6705)
+dc:creator: Timothy Collins, <conference@hr-publishing.org>
+Creation-Date: 2016-12-30T12:41:52Z
+dcterms:created: 2016-12-30T12:41:52Z
+Message-To: lizij@163.com
+dc:title: The publication for your paper in Universal Journal of Materials Science, Vol5 No2 (ISSN: 2331-6705)
+Author: Timothy Collins, <conference@hr-publishing.org>
+Message-From: Timothy Collins, <conference@hr-publishing.org>
+Content-Type: message/rfc822

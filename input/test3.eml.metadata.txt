@@ -1,0 +1,13 @@
+X-Parsed-By: org.apache.tika.parser.DefaultParser
+creator: Facebook <notification+kjdpjj7-hjhi@facebookmail.com>
+meta:author: Facebook <notification+kjdpjj7-hjhi@facebookmail.com>
+meta:creation-date: 2017-01-10T11:00:02Z
+subject: 李子健，你有99 条新通知、1 个加好友请求和5 条消息
+dc:creator: Facebook <notification+kjdpjj7-hjhi@facebookmail.com>
+Creation-Date: 2017-01-10T11:00:02Z
+dcterms:created: 2017-01-10T11:00:02Z
+Message-To: 李子健 <lizij@163.com>
+dc:title: 李子健，你有99 条新通知、1 个加好友请求和5 条消息
+Author: Facebook <notification+kjdpjj7-hjhi@facebookmail.com>
+Message-From: Facebook <notification+kjdpjj7-hjhi@facebookmail.com>
+Content-Type: message/rfc822
